@@ -1,0 +1,9 @@
+[submodule "backup/sr_legacy/IPTV-B"]
+	path = backup/sr_legacy/IPTV-B
+	url = https://github.com/srlegacy/IPTV-B.git
+[submodule "backup/sr_legacy/IPTV-PREMIUM-C"]
+	path = backup/sr_legacy/IPTV-PREMIUM-C
+	url = https://github.com/srlegacy/IPTV-PREMIUM-C.git
+[submodule "backup/sr_legacy/SMOOTH-LIFETIME"]
+	path = backup/sr_legacy/SMOOTH-LIFETIME
+	url = https://github.com/srlegacy/SMOOTH-LIFETIME.git
